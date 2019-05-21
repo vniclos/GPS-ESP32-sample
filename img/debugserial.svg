@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.9241mm"
+   height="114.33779mm"
+   viewBox="0 0 172.9241 114.33779"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="debugserial.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="413.13904"
+     inkscape:cy="251.81566"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.985118,-12.415833)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.136906"
+       y="35.440475"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="49.136906"
+         y="38.658974"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot819"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion821"><rect
+           id="rect823"
+           width="504.28571"
+           height="415"
+           x="316.42856"
+           y="46.091114" /></flowRegion><flowPara
+         id="flowPara825"></flowPara></flowRoot>    <g
+       id="g967"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         ry="2.2678576"
+         y="12.415833"
+         x="13.985118"
+         height="114.33779"
+         width="172.9241"
+         id="rect930"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <g
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         id="g928">
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect889"
+           width="104.51041"
+           height="5.4806542"
+           x="17.197916"
+           y="29.392857"
+           ry="2.2678576" />
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect885"
+           width="61.988091"
+           height="6.2366056"
+           x="18.331846"
+           y="108.01189"
+           ry="1.3229185" />
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect883"
+           width="50.270828"
+           height="6.6145821"
+           x="15.686011"
+           y="82.309525"
+           ry="2.2678571" />
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect881"
+           width="59.53125"
+           height="6.2366099"
+           x="17.008928"
+           y="59.819939"
+           ry="2.2678571" />
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect879"
+           width="44.034225"
+           height="4.9136906"
+           x="15.686011"
+           y="33.92857"
+           ry="2.4568453" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="20.312483"
+           y="24.38508"
+           id="text829"><tspan
+             sodipodi:role="line"
+             id="tspan827"
+             x="20.312483"
+             y="24.38508"
+             style="stroke-width:0.26458332">Started</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="28.794802"
+             style="stroke-width:0.26458332"
+             id="tspan831"></tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="33.204525"
+             style="stroke-width:0.26458332"
+             id="tspan833">Please, wait while the gps locates the satellites</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="37.614246"
+             style="stroke-width:0.26458332"
+             id="tspan835">GPS CountRead=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="42.023968"
+             style="stroke-width:0.26458332"
+             id="tspan837">g_gpsIsAccesible=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="46.433689"
+             style="stroke-width:0.26458332"
+             id="tspan839">g_gpsLastRead_IsAccesibleLocation=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="50.843414"
+             style="stroke-width:0.26458332"
+             id="tspan841">g_gpsLastRead_IsAccesibleDate=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="55.253136"
+             style="stroke-width:0.26458332"
+             id="tspan843">g_gpsLastRead_IsAccesibleTime=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="59.662857"
+             style="stroke-width:0.26458332"
+             id="tspan845">g_DL_LastRead_GpsLoc=40.412707, -3.724301</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="64.072578"
+             style="stroke-width:0.26458332"
+             id="tspan847">g_DL_LastRead_GpsAlt=0</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="68.4823"
+             style="stroke-width:0.26458332"
+             id="tspan849">g_DL_LastRead_GpsDateTime=2019/04/27 16:38:27:27</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="72.892021"
+             style="stroke-width:0.26458332"
+             id="tspan851">URL for googlemap= http://www.google.com/maps/place/40.412707, -3.724301</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="77.301743"
+             style="stroke-width:0.26458332"
+             id="tspan853">.........</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="81.711464"
+             style="stroke-width:0.26458332"
+             id="tspan855"></tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="86.121193"
+             style="stroke-width:0.26458332"
+             id="tspan857">GPS CountRead=15</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="90.530914"
+             style="stroke-width:0.26458332"
+             id="tspan859">g_gpsIsAccesible=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="94.940636"
+             style="stroke-width:0.26458332"
+             id="tspan861">g_gpsLastRead_IsAccesibleLocation=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="99.350357"
+             style="stroke-width:0.26458332"
+             id="tspan863">g_gpsLastRead_IsAccesibleDate=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="103.76008"
+             style="stroke-width:0.26458332"
+             id="tspan865">g_gpsLastRead_IsAccesibleTime=1</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="108.1698"
+             style="stroke-width:0.26458332"
+             id="tspan867">g_DL_LastRead_GpsLoc=40.412744, -3.724332</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="112.57952"
+             style="stroke-width:0.26458332"
+             id="tspan869">g_DL_LastRead_GpsAlt=626</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="116.98924"
+             style="stroke-width:0.26458332"
+             id="tspan871">g_DL_LastRead_GpsDateTime=2019/04/27 16:39:39:39</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="121.39896"
+             style="stroke-width:0.26458332"
+             id="tspan873">URL for googlemap= http://www.google.com/maps/place/40.412744, -3.724332</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="125.80869"
+             style="stroke-width:0.26458332"
+             id="tspan875">.........</tspan><tspan
+             sodipodi:role="line"
+             x="20.312483"
+             y="130.21841"
+             style="stroke-width:0.26458332"
+             id="tspan877" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="20.221727"
+           y="17.108631"
+           id="text893"><tspan
+             sodipodi:role="line"
+             id="tspan891"
+             x="20.221727"
+             y="17.108631"
+             style="stroke-width:0.26458332">DEBUG SERIAL VALUES</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
