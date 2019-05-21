@@ -1,7 +1,7 @@
 # ESP32 DEVKIT V1 GPS NEO 6M
 
-![alt text](https://github.com/vniclos/robot-arm4-esp32/blob/master/img/robot-00.jpg "Robot ARM4X builded" )
-
+![alt text](https://github.com/vniclos/GPS-ESP32-sample/blob/master/img/hardware.jpg "ESP32 GPS NEO 6M V2" )
+?raw=true
 ## Hardware
 
 - 1 ESP32 DEVKIT V1
