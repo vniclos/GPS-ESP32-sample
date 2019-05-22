@@ -42,7 +42,7 @@ There are two samples,
 - first only serial output,  and you dont need to do changes,
 - Second has serial and web output and you need edit _global.h for configure your wifi access point and ip preferences
 
-'''
+``` c++
 #ifndef _GLOBAL_H
 #define _GLOBAL_H
 
@@ -55,7 +55,7 @@ IPAddress g_wifi_gateway(192, 168, 1, 1);
 IPAddress g_wifi_subnet(255, 255, 255, 0);
 IPAddress g_wifi_primaryDNS(8, 8, 8, 8); //optional
 IPAddress g_wifi_secondaryDNS(8, 8, 4, 4); //optional
-'''
+```
 
 Contac with me on facebook 
 https://www.facebook.com/vicente.niclos
