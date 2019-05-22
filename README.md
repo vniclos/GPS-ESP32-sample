@@ -17,7 +17,7 @@ https://github.com/mikalhart/TinyGPSPlus
 
 There are two samples,
 - first only serial output,  and you dont need to do changes,
-- eccod has serial and web output and you need edit _defines.h for configure your wifi access point
+- Second has serial and web output and you need edit _defines.h for configure your wifi access point
 
 
 ### You can get 
