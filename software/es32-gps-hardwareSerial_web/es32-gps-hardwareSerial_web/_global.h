@@ -1,6 +1,16 @@
 #ifndef _GLOBAL_H
 #define _GLOBAL_H
 
+const char* g_wifi_siid = "HERE YOU WIFI ACCESPOINT NAME";
+const char* g_wifi_pwd  = "HERE YOUR WIFI PASSWORD ";
+const char* g_wifi_host  = "my-gps";
+
+IPAddress g_wifi_ip(192, 168, 1, 200);
+IPAddress g_wifi_gateway(192, 168, 1, 1);
+IPAddress g_wifi_subnet(255, 255, 255, 0);
+IPAddress g_wifi_primaryDNS(8, 8, 8, 8); //optional
+IPAddress g_wifi_secondaryDNS(8, 8, 4, 4); //optional
+
 HardwareSerial g_device_GpsSerial(1);  // gps  recive data by uart
 TinyGPSPlus    g_device_Gps;           // decode gps fields
 WebServer      g_websrv(80);
@@ -27,15 +37,7 @@ char           g_DL_GpsDateTime[LEN_DL_GPSDATETIME] = "\0";
 char           g_DL_GpsSatellites[LEN_DL_GPSSATELLITES] = "\0";
 
 
-const char* g_wifi_siid     = "testudines";
-const char* g_wifi_pwd  = "915265ABCD";
-const char* g_wifi_host  = "my-gps";
 
-IPAddress g_wifi_ip(192, 168, 1, 200);
-IPAddress g_wifi_gateway(192, 168, 1, 1);
-IPAddress g_wifi_subnet(255, 255, 255, 0);
-IPAddress g_wifi_primaryDNS(8, 8, 8, 8); //optional
-IPAddress g_wifi_secondaryDNS(8, 8, 4, 4); //optional
 
 
 
