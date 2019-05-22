@@ -15,7 +15,9 @@
 - TinyGPSPlus available on
 https://github.com/mikalhart/TinyGPSPlus
 
-
+There are two samples,
+- first only serial output,  and you dont need to do changes,
+- eccod has serial and web output and you need edit _defines.h for configure your wifi access point
 
 
 ### You can get 
@@ -34,6 +36,9 @@ Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Al
 Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
 ...
 ```
+
+Or in web site example version you can get 
+![alt text](https://github.com/vniclos/GPS-ESP32-sample/blob/master/img/web.png "ESP32 GPS NEO 6M V2" )
 
 Contac with me on facebook 
 https://www.facebook.com/vicente.niclos
