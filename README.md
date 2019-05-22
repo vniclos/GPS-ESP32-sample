@@ -38,9 +38,9 @@ Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Al
 Or in web site example version you can get 
 ![alt text](https://github.com/vniclos/GPS-ESP32-sample/blob/master/img/web.png "ESP32 GPS NEO 6M V2" )
 
-There are two samples,
-- first only serial output,  and you dont need to do changes,
-- Second has serial and web output and you need edit _global.h for configure your wifi access point and ip preferences
+There are two samples.
+- First only **serial output**,  and you dont need to do changes,
+- Second has **serial and web output** and you need edit _global.h for configure your wifi access point and ip preferences
 
 ``` c++
 #ifndef _GLOBAL_H
