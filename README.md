@@ -15,9 +15,7 @@
 - TinyGPSPlus available on
 https://github.com/mikalhart/TinyGPSPlus
 
-There are two samples,
-- first only serial output,  and you dont need to do changes,
-- Second has serial and web output and you need edit _defines.h for configure your wifi access point
+
 
 
 ### You can get 
@@ -39,6 +37,25 @@ Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Al
 
 Or in web site example version you can get 
 ![alt text](https://github.com/vniclos/GPS-ESP32-sample/blob/master/img/web.png "ESP32 GPS NEO 6M V2" )
+
+There are two samples,
+- first only serial output,  and you dont need to do changes,
+- Second has serial and web output and you need edit _global.h for configure your wifi access point and ip preferences
+
+'''
+#ifndef _GLOBAL_H
+#define _GLOBAL_H
+
+const char* g_wifi_siid = "HERE YOU WIFI ACCESPOINT NAME";
+const char* g_wifi_pwd  = "HERE YOUR WIFI PASSWORD ";
+const char* g_wifi_host  = "my-gps";
+
+IPAddress g_wifi_ip(192, 168, 1, 200);
+IPAddress g_wifi_gateway(192, 168, 1, 1);
+IPAddress g_wifi_subnet(255, 255, 255, 0);
+IPAddress g_wifi_primaryDNS(8, 8, 8, 8); //optional
+IPAddress g_wifi_secondaryDNS(8, 8, 4, 4); //optional
+'''
 
 Contac with me on facebook 
 https://www.facebook.com/vicente.niclos
