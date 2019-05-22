@@ -1,10 +1,18 @@
 #ifndef _DEFINES_H
 #define _DEFINES_H
-
+#define DEBUG   // if debug output data to serial port
 #define PIN_RX_GPS        16
 #define PIN_TX_GPS        17
 #define GPS_BAUDS 9600
 #define GPS_PARITY=SERIAL_8N1
+
+#define GPS_READ_TRIES 500
+//#define GPS_DELAY 2000 //5000      // for check input serial data
+#define GPS_INTERVALREAD  1000
+#define LEN_DL_GPSALTITUDE       10
+#define LEN_DL_GPSLATILONG       21
+#define LEN_DL_GPSDATETIME       22
+#define LEN_DL_GPSSATELLITES      4
 
 //----------------------------------------------
 // tool Macro for get only firmaware file name
